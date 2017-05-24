@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\aswork\TPshop-master\ListViewWithGrid1\app\libs\afinal_0.5.1_bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ae398c74701392473b9cb488c76a92576d6f548c">
+        <dex dex="F:\aswork\TPshop-master\ListViewWithGrid1\app\build\intermediates\pre-dexed\debug\afinal_0.5.1_bin_c956f44f4d5fee08146c77ff61288a7a6e2bf1e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\aswork\TPshop-master\ListViewWithGrid1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_226398ff6b31327a9adb1decb286eaf494f1999a.jar" />
+    </item>
+
+</items>
